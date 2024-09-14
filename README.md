@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
 1. *Clone the Repository*
     bash
-    git clone https://github.com/Anhiii/fraudulent-message-detection-app.git
+    git clone https://github.com/Anhiii/fraud_detecting/fraudulent-message-detection-app.git
     cd fraudulent-message-detection-app
     
 
