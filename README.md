@@ -72,9 +72,10 @@ The model used for detecting fraudulent messages is based on Natural Language Pr
 - Deploy the application on a cloud platform such as Heroku or AWS.
 
 ## Contributors
+- [Annapurna b](https://github.com/Anhiii)
 - [Sanjana s kadakbhavi](https://github.com/Sanjanask13)
 - [Basweshwari malipatil](https://github.com/Basveshwari835)
-- [Annapurna b](https://github.com/Anhiii)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
